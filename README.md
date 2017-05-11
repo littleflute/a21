@@ -1,4 +1,4 @@
-[v0.0.2](https://github.com/littleflute/a21/edit/master/README.md)
+[v0.0.3](https://github.com/littleflute/a21/edit/master/README.md)
 
 [a21-2](https://github.com/littleflute/a21-2)
 
@@ -13,6 +13,14 @@
 [cd05](docs/cds/cd05)
 
 [cd06](docs/cds/cd06)
+
+[cd07](https://github.com/littleflute/a21-2/cd07/Portrait07)
+
+[cd08](https://github.com/littleflute/a21-2/cd08)
+
+[cd09](https://github.com/littleflute/a21-2/cd09/Portrait09)
+
+[cd10](https://github.com/littleflute/a21-2/cd10)
 
 
 
